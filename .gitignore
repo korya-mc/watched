@@ -1,0 +1,9 @@
+# Публичные файлы сайта (эти НЕ игнорируем)
+# index.html
+# movies.json
+# css/styles.css
+# js/main.js
+
+# Файлы админ-панели (эти игнорируем)
+admin.html
+js/admin.js
