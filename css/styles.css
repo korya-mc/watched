@@ -114,8 +114,10 @@ body {
     padding: 20px 16px;
   }
   .logo {
-    height: 48px;
     width: 100%;
+    height: auto;
+    max-width: 600px; 
+    margin: 0 auto;  
   }
   .header-row {
     gap: 12px;
@@ -125,7 +127,10 @@ body {
     margin-left: 0;
   }
   .header-stats {
-    text-align: left;
+    text-align: center;
+  }
+  .header-updated {
+    text-align: center;   
   }
 }
 
