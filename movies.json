@@ -1,0 +1,4152 @@
+{
+  "movies": [
+    {
+      "id": "kp-195334",
+      "kinopoiskId": 195334,
+      "title": "Престиж",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/195334.jpg",
+      "year": 2006,
+      "collection": null,
+      "links": {
+        "boosty": "https://boosty.to/korya_mc/posts/17b5054c-9948-4be5-ad62-e66de594714a"
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив",
+        "фантастика"
+      ]
+    },
+    {
+      "id": "kp-252641",
+      "kinopoiskId": 252641,
+      "title": "Хранители",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/252641.jpg",
+      "year": 2009,
+      "collection": null,
+      "links": {
+        "telegram": "https://t.me/korya_narezki/62"
+      },
+      "genres": [
+        "драма",
+        "детектив",
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-843789",
+      "kinopoiskId": 843789,
+      "title": "Призрак в доспехах",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/843789.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": "https://t.me/korya_narezki/112"
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "детектив",
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-749540",
+      "kinopoiskId": 749540,
+      "title": "Kingsman: Секретная служба",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/749540.jpg",
+      "year": 2015,
+      "collection": "Kingsman",
+      "links": {
+        "telegram": "https://t.me/korya_narezki/123"
+      },
+      "genres": [
+        "приключения",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-906654",
+      "kinopoiskId": 906654,
+      "title": "Kingsman: Золотое кольцо",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/906654.jpg",
+      "year": 2017,
+      "collection": "Kingsman",
+      "links": {
+        "telegram": "https://t.me/korya_narezki/132"
+      },
+      "genres": [
+        "приключения",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-41949",
+      "kinopoiskId": 41949,
+      "title": "Чужой против Хищника",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/41949.jpg",
+      "year": 2004,
+      "collection": "Чужой против Хищника",
+      "links": {
+        "boosty": "https://boosty.to/korya_mc/posts/3b8bd868-895f-406f-b137-efa04df078d6"
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "приключения",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-251878",
+      "kinopoiskId": 251878,
+      "title": "Чужие против Хищника: Реквием",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/251878.jpg",
+      "year": 2007,
+      "collection": "Чужой против Хищника",
+      "links": {
+        "boosty": "https://boosty.to/korya_mc/posts/3b8bd868-895f-406f-b137-efa04df078d6"
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-408871",
+      "kinopoiskId": 408871,
+      "title": "007: Координаты «Скайфолл»",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/408871.jpg",
+      "year": 2012,
+      "collection": null,
+      "links": {
+        "telegram": "https://t.me/korya_narezki/140"
+      },
+      "genres": [
+        "триллер",
+        "приключения",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-3961",
+      "kinopoiskId": 3961,
+      "title": "Миссия: невыполнима",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3961.jpg",
+      "year": 1996,
+      "collection": "Миссия невыполнима",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/163"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "приключения",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-678549",
+      "kinopoiskId": 678549,
+      "title": "Миссия невыполнима: Племя изгоев",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/678549.jpg",
+      "year": 2015,
+      "collection": "Миссия невыполнима",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/183"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "приключения",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-1392550",
+      "kinopoiskId": 1392550,
+      "title": "Быстрее пули",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1392550.jpg",
+      "year": 2022,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/343"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-535243",
+      "kinopoiskId": 535243,
+      "title": "Каскадёры",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/535243.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/371"
+        ]
+      },
+      "genres": [
+        "мелодрама",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-591469",
+      "kinopoiskId": 591469,
+      "title": "Покажи мне Луну",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/591469.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/390"
+        ]
+      },
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-5942378",
+      "kinopoiskId": 5942378,
+      "title": "Еретик",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5942378.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/400"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-4626783",
+      "kinopoiskId": 4626783,
+      "title": "Пчеловод",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4626783.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/403"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-558393",
+      "kinopoiskId": 558393,
+      "title": "Серый человек",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/558393.jpg",
+      "year": 2022,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/408"
+        ]
+      },
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-944098",
+      "kinopoiskId": 944098,
+      "title": "Три билборда на границе Эббинга, Миссури",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/944098.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/416"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-4557113",
+      "kinopoiskId": 4557113,
+      "title": "Наследник",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4557113.jpg",
+      "year": 2023,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/431"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-762738",
+      "kinopoiskId": 762738,
+      "title": "Джон Уик",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/762738.jpg",
+      "year": 2014,
+      "collection": "Джон Уик",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/453"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-1009536",
+      "kinopoiskId": 1009536,
+      "title": "Джон Уик 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1009536.jpg",
+      "year": 2019,
+      "collection": "Джон Уик",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/463"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-1267348",
+      "kinopoiskId": 1267348,
+      "title": "Джон Уик 4",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1267348.jpg",
+      "year": 2023,
+      "collection": "Джон Уик",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/466"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-1338480",
+      "kinopoiskId": 1338480,
+      "title": "Не смотрите наверх",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1338480.jpg",
+      "year": 2021,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/474"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-4412449",
+      "kinopoiskId": 4412449,
+      "title": "Опустошение",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4412449.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/487"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-5417580",
+      "kinopoiskId": 5417580,
+      "title": "Рейс навылет",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5417580.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/487"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-4825582",
+      "kinopoiskId": 4825582,
+      "title": "Одинокие волки",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4825582.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/493"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1188529",
+      "kinopoiskId": 1188529,
+      "title": "Достать ножи",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1188529.jpg",
+      "year": 2019,
+      "collection": "Достать ножи",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/497"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-718811",
+      "kinopoiskId": 718811,
+      "title": "Прибытие",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/718811.jpg",
+      "year": 2016,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/507"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
+      "id": "kp-817324",
+      "kinopoiskId": 817324,
+      "title": "Убийца",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/817324.jpg",
+      "year": 2015,
+      "collection": "Убийца",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/509"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "детектив",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-938461",
+      "kinopoiskId": 938461,
+      "title": "Убийца 2. Против всех",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/938461.jpg",
+      "year": 2018,
+      "collection": "Убийца",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/516"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-1047492",
+      "kinopoiskId": 1047492,
+      "title": "Балерина",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1047492.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/520"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-692861",
+      "kinopoiskId": 692861,
+      "title": "Исчезнувшая",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/692861.jpg",
+      "year": 2014,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/527"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": "kp-474",
+      "kinopoiskId": 474,
+      "title": "Гладиатор",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/474.jpg",
+      "year": 2000,
+      "collection": "Гладиатор",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/545"
+        ]
+      },
+      "genres": [
+        "драма",
+        "боевик",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-1207839",
+      "kinopoiskId": 1207839,
+      "title": "Гладиатор II",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1207839.jpg",
+      "year": 2024,
+      "collection": "Гладиатор",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/548"
+        ]
+      },
+      "genres": [
+        "драма",
+        "боевик",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-939411",
+      "kinopoiskId": 939411,
+      "title": "Мотылёк",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/939411.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/551"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "биография"
+      ]
+    },
+    {
+      "id": "kp-5449060",
+      "kinopoiskId": 5449060,
+      "title": "Чёрный чемодан – двойная игра",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5449060.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/553"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
+      "id": "kp-619",
+      "kinopoiskId": 619,
+      "title": "Идентификация Борна",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/619.jpg",
+      "year": 2002,
+      "collection": "Борн",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/562"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-41947",
+      "kinopoiskId": 41947,
+      "title": "Превосходство Борна",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/41947.jpg",
+      "year": 2004,
+      "collection": "Борн",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/564"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-87672",
+      "kinopoiskId": 87672,
+      "title": "Ультиматум Борна",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/87672.jpg",
+      "year": 2007,
+      "collection": "Борн",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/572"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-817971",
+      "kinopoiskId": 817971,
+      "title": "Голый пистолет",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/817971.jpg",
+      "year": 2025,
+      "collection": "Голый пистолет",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/570"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "детектив",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-324",
+      "kinopoiskId": 324,
+      "title": "Поймай меня, если сможешь",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/324.jpg",
+      "year": 2002,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/578"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "биография",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-740644",
+      "kinopoiskId": 740644,
+      "title": "Ярость",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/740644.jpg",
+      "year": 2014,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/581"
+        ]
+      },
+      "genres": [
+        "драма",
+        "боевик",
+        "военный",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-5931",
+      "kinopoiskId": 5931,
+      "title": "Очень страшное кино 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5931.jpg",
+      "year": 2001,
+      "collection": "Очень страшное кино",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/586"
+        ]
+      },
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-5002",
+      "kinopoiskId": 5002,
+      "title": "Очень страшное кино 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5002.jpg",
+      "year": 2003,
+      "collection": "Очень страшное кино",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/590"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-32655",
+      "kinopoiskId": 32655,
+      "title": "Очень страшное кино 4",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/32655.jpg",
+      "year": 2006,
+      "collection": "Очень страшное кино",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/595"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-4807",
+      "kinopoiskId": 4807,
+      "title": "Не грози Южному Централу, попивая сок у себя в квартале",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4807.jpg",
+      "year": 1995,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/601"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-195941",
+      "kinopoiskId": 195941,
+      "title": "Супергеройское кино",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/195941.jpg",
+      "year": 2008,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/607"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-4067",
+      "kinopoiskId": 4067,
+      "title": "Голый пистолет",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4067.jpg",
+      "year": 1988,
+      "collection": "Голый пистолет",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/612"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-2388",
+      "kinopoiskId": 2388,
+      "title": "Голый пистолет 2 1/2: Запах страха",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2388.jpg",
+      "year": 1991,
+      "collection": "Голый пистолет",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/617"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-927898",
+      "kinopoiskId": 927898,
+      "title": "Переводчик",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/927898.jpg",
+      "year": 2022,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/622"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "боевик",
+        "военный",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-278208",
+      "kinopoiskId": 278208,
+      "title": "Солдаты неудачи",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/278208.jpg",
+      "year": 2008,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/634"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "комедия",
+        "военный"
+      ]
+    },
+    {
+      "id": "kp-944708",
+      "kinopoiskId": 944708,
+      "title": "Прочь",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/944708.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/645"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-1198736",
+      "kinopoiskId": 1198736,
+      "title": "Я иду искать",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1198736.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/651"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-1044906",
+      "kinopoiskId": 1044906,
+      "title": "Тихое место",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1044906.jpg",
+      "year": 2018,
+      "collection": "Тихое место",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/657"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-1129900",
+      "kinopoiskId": 1129900,
+      "title": "Тихое место 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1129900.jpg",
+      "year": 2020,
+      "collection": "Тихое место",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/663"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-980011",
+      "kinopoiskId": 980011,
+      "title": "Удача Логана",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/980011.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/677"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-2011",
+      "kinopoiskId": 2011,
+      "title": "Угнать за 60 секунд",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2011.jpg",
+      "year": 2000,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/681"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-495892",
+      "kinopoiskId": 495892,
+      "title": "Астрал",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/495892.jpg",
+      "year": 2010,
+      "collection": "Астрал",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/689"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-666804",
+      "kinopoiskId": 666804,
+      "title": "Астрал: Глава 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/666804.jpg",
+      "year": 2013,
+      "collection": "Астрал",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/694"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-419209",
+      "kinopoiskId": 419209,
+      "title": "Хижина в лесу",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/419209.jpg",
+      "year": 2011,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/703"
+        ]
+      },
+      "genres": [
+        "фэнтези",
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-484474",
+      "kinopoiskId": 484474,
+      "title": "Однажды в Ирландии",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/484474.jpg",
+      "year": 2011,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/707"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-817481",
+      "kinopoiskId": 817481,
+      "title": "Братья из Гримсби",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/817481.jpg",
+      "year": 2016,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/710"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "приключения",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-518040",
+      "kinopoiskId": 518040,
+      "title": "Диктатор",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/518040.jpg",
+      "year": 2012,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/714"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-667667",
+      "kinopoiskId": 667667,
+      "title": "Дом с паранормальными явлениями",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/667667.jpg",
+      "year": 2013,
+      "collection": "Дом с паранормальными явлениями",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/729"
+        ]
+      },
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-756189",
+      "kinopoiskId": 756189,
+      "title": "Дом с паранормальными явлениями 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/756189.jpg",
+      "year": 2014,
+      "collection": "Дом с паранормальными явлениями",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/735"
+        ]
+      },
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-590022",
+      "kinopoiskId": 590022,
+      "title": "Синистер",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/590022.jpg",
+      "year": 2012,
+      "collection": "Синистер",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/740"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-744668",
+      "kinopoiskId": 744668,
+      "title": "Синистер 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/744668.jpg",
+      "year": 2015,
+      "collection": "Синистер",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/746"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-1178137",
+      "kinopoiskId": 1178137,
+      "title": "Солнцестояние",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1178137.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/752"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-51605",
+      "kinopoiskId": 51605,
+      "title": "Белые цыпочки",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/51605.jpg",
+      "year": 2004,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/758"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-470464",
+      "kinopoiskId": 470464,
+      "title": "Тройная граница",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/470464.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/765"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-7859199",
+      "kinopoiskId": 7859199,
+      "title": "Код 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7859199.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/778"
+        ]
+      },
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-4695",
+      "kinopoiskId": 4695,
+      "title": "Лицо со шрамом",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4695.jpg",
+      "year": 1983,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/778"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-555",
+      "kinopoiskId": 555,
+      "title": "Большой Лебовски",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/555.jpg",
+      "year": 1998,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/791"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-471",
+      "kinopoiskId": 471,
+      "title": "Крепкий орешек",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/471.jpg",
+      "year": 1988,
+      "collection": "Крепкий орешек",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/862"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-7374",
+      "kinopoiskId": 7374,
+      "title": "Крепкий орешек 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7374.jpg",
+      "year": 1990,
+      "collection": "Крепкий орешек",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/865"
+        ]
+      },
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-8162",
+      "kinopoiskId": 8162,
+      "title": "Крепкий орешек 3: Возмездие",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8162.jpg",
+      "year": 1995,
+      "collection": "Крепкий орешек",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/869"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-9544",
+      "kinopoiskId": 9544,
+      "title": "Крепкий орешек 4.0",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/9544.jpg",
+      "year": 2007,
+      "collection": "Крепкий орешек",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/877"
+        ]
+      },
+      "genres": [
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-1828",
+      "kinopoiskId": 1828,
+      "title": "Плохой Санта",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1828.jpg",
+      "year": 2003,
+      "collection": "Плохой Санта",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/887"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-577229",
+      "kinopoiskId": 577229,
+      "title": "Плохой Санта 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/577229.jpg",
+      "year": 2016,
+      "collection": "Плохой Санта",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/893"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-819101",
+      "kinopoiskId": 819101,
+      "title": "Омерзительная восьмерка",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/819101.jpg",
+      "year": 2015,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/77",
+          "https://t.me/korya_narezki/903"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "детектив",
+        "вестерн"
+      ]
+    },
+    {
+      "id": "kp-976636",
+      "kinopoiskId": 976636,
+      "title": "Большая игра",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/976636.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/908"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "биография"
+      ]
+    },
+    {
+      "id": "kp-501333",
+      "kinopoiskId": 501333,
+      "title": "Игра на понижение",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/501333.jpg",
+      "year": 2015,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/917"
+        ]
+      },
+      "genres": [
+        "драма",
+        "биография",
+        "комедия",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-4421816",
+      "kinopoiskId": 4421816,
+      "title": "Достать ножи: Воскрешение покойника",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4421816.jpg",
+      "year": 2025,
+      "collection": "Достать ножи",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/926"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-484791",
+      "kinopoiskId": 484791,
+      "title": "Метод исключения",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/484791.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/931"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-915178",
+      "kinopoiskId": 915178,
+      "title": "Иллюзия обмана 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/915178.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/947"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-6398494",
+      "kinopoiskId": 6398494,
+      "title": "Лакомый кусок",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6398494.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/953"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/487aac9e-da4f-4242-90bb-85934212b2b0"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-6039",
+      "kinopoiskId": 6039,
+      "title": "Маска",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6039.jpg",
+      "year": 1994,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/956"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/5ee4615d-685f-4aa8-a37c-9ea00690115b"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-464475",
+      "kinopoiskId": 464475,
+      "title": "Франкенштейн",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/464475.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/960"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/e49aac46-7dcc-44ab-be62-f0becbef60c5"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
+      "id": "kp-779602",
+      "kinopoiskId": 779602,
+      "title": "Кто я",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/779602.jpg",
+      "year": 2014,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/966"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/336c0e5f-69ed-40ae-9b72-11d4b42df55f"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "детектив"
+      ]
+    },
+    {
+      "id": "kp-5121477",
+      "kinopoiskId": 5121477,
+      "title": "Ручная кладь",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5121477.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/969"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/4b7ebca3-ff60-44aa-ad23-e10cd3bc7159"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-9691",
+      "kinopoiskId": 9691,
+      "title": "Бесславные ублюдки",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/9691.jpg",
+      "year": 2009,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/87",
+          "https://t.me/korya_narezki/1017"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/45ccc654-6d9a-41ce-b6d8-102212dc658a"
+        ]
+      },
+      "genres": [
+        "драма",
+        "боевик",
+        "комедия",
+        "военный"
+      ]
+    },
+    {
+      "id": "kp-801",
+      "kinopoiskId": 801,
+      "title": "Обитель зла",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/801.jpg",
+      "year": 2002,
+      "collection": "Обитель зла",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1023"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/3a716cf1-2b8a-453f-9415-035f24d641c8"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-24186",
+      "kinopoiskId": 24186,
+      "title": "Обитель зла 2: Апокалипсис",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/24186.jpg",
+      "year": 2004,
+      "collection": "Обитель зла",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1027"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/d8924be3-f688-413a-81a3-4f3986232de5"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-88172",
+      "kinopoiskId": 88172,
+      "title": "Обитель зла 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/88172.jpg",
+      "year": 2007,
+      "collection": "Обитель зла",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1031"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/d9518222-c577-41ba-8e40-2ec5bf5bc40d"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-409208",
+      "kinopoiskId": 409208,
+      "title": "Обитель зла 4: Жизнь после смерти 3D",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/409208.jpg",
+      "year": 2010,
+      "collection": "Обитель зла",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1035"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/779a5db0-8d28-446d-80de-4e77f0bc2fdd"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-581493",
+      "kinopoiskId": 581493,
+      "title": "Обитель зла: Возмездие",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/581493.jpg",
+      "year": 2012,
+      "collection": "Обитель зла",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1039"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/8eb27c9d-c77c-472e-9e01-c01638110a49"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-726753",
+      "kinopoiskId": 726753,
+      "title": "Обитель зла: Последняя глава",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/726753.jpg",
+      "year": 2016,
+      "collection": "Обитель зла",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1043"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/92ad7072-ebff-466b-b10f-fd7a449f4b27"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-1045397",
+      "kinopoiskId": 1045397,
+      "title": "Обитель зла: Раккун-Сити",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1045397.jpg",
+      "year": 2021,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1050"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/74146bec-3ca7-4f35-8d73-ba7e850365d2"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-78871",
+      "kinopoiskId": 78871,
+      "title": "Сайлент Хилл",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/78871.jpg",
+      "year": 2006,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1063"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/7df32a41-0144-4743-957b-2419c9a45dce"
+        ]
+      },
+      "genres": [
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-397541",
+      "kinopoiskId": 397541,
+      "title": "Адреналин: Высокое напряжение",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/397541.jpg",
+      "year": 2009,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1066"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/55e13310-b38a-4d82-ab1a-83be51622a4c"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1382256",
+      "kinopoiskId": 1382256,
+      "title": "Проект «Конец света»",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1382256.jpg",
+      "year": 2026,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1074"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/25aa4e7c-fba5-4bd7-8e27-0a6f14a97776"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "приключения",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-23922",
+      "kinopoiskId": 23922,
+      "title": "Пятница 13-е",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/23922.jpg",
+      "year": 1980,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1099"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/e3c144ed-ef8d-4778-a483-5241c5d6dd42"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-934809",
+      "kinopoiskId": 934809,
+      "title": "Тишина",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/934809.jpg",
+      "year": 2014,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1127"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/71be53ad-560f-4eea-8ca6-d1e035904de2"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-6750360",
+      "kinopoiskId": 6750360,
+      "title": "Горничная",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6750360.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1135"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/33b0a299-548e-4fda-8ff2-adf7e2b9f459"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
+      "id": "kp-1009784",
+      "kinopoiskId": 1009784,
+      "title": "Апгрейд",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1009784.jpg",
+      "year": 2018,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1163"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/de3f5cec-9a09-414f-a2d8-c0ced0893009"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "детектив",
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-3908",
+      "kinopoiskId": 3908,
+      "title": "Плохие парни",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3908.jpg",
+      "year": 1995,
+      "collection": "Плохие парни",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1176"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/b1fc3b4a-5e76-4c5c-8405-0b4df84efcb8"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-2928",
+      "kinopoiskId": 2928,
+      "title": "Плохие парни 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2928.jpg",
+      "year": 2003,
+      "collection": "Плохие парни",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1165"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/74d48e6f-da06-4012-9223-4c9d2b9dc79b"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-472386",
+      "kinopoiskId": 472386,
+      "title": "Плохие парни навсегда",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/472386.jpg",
+      "year": 2020,
+      "collection": "Плохие парни",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1168"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/3526d213-3ec2-4e49-bd59-f9b72d517aba"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-35951",
+      "kinopoiskId": 35951,
+      "title": "Пятница 13-е – Часть 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/35951.jpg",
+      "year": 1981,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1171"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/6c274a6f-4ff7-468d-9a85-da24f08f8215"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-927494",
+      "kinopoiskId": 927494,
+      "title": "Плохие парни до конца",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/927494.jpg",
+      "year": 2024,
+      "collection": "Плохие парни",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1185"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/9dfe2105-5720-4a20-a6ee-b64f143d84ff"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-10956019",
+      "kinopoiskId": 10956019,
+      "title": "На цепи",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/10956019.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1159"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/0c61dc9e-c4dc-4408-acfe-ab1ec9707baf"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
+      "id": "kp-12245586",
+      "kinopoiskId": 12245586,
+      "title": "Необычайно умные создания",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/12245586.jpg",
+      "year": 2026,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1191"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/f83f6add-f3cc-47ad-9ec0-6d199beeb032"
+        ]
+      },
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-36222",
+      "kinopoiskId": 36222,
+      "title": "Пятница 13-е – Часть 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/36222.jpg",
+      "year": 1982,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1193"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/93c20852-e1be-44a8-b467-393d255557f3"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-12024538",
+      "kinopoiskId": 12024538,
+      "title": "Сначала дамы",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/12024538.jpg",
+      "year": 2026,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1207"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/971bc4d7-8c14-47cb-9641-5178246301ec"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-5582128",
+      "kinopoiskId": 5582128,
+      "title": "Шары вверх",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5582128.jpg",
+      "year": 2026,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1210"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/5eb70fbc-8965-4011-a5a7-6377c8145afe"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-17625",
+      "kinopoiskId": 17625,
+      "title": "Пятница 13-е – Часть 4: Последняя глава",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/17625.jpg",
+      "year": 1984,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1214"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/d6e8178e-185b-459c-ae76-9d47cb9510fc"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-18170",
+      "kinopoiskId": 18170,
+      "title": "Пятница 13-е – Часть 5: Новое начало",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/18170.jpg",
+      "year": 1985,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1238"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/03f9d095-37ce-4952-bb9a-a59fd22fcbc9"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-8472578",
+      "kinopoiskId": 8472578,
+      "title": "Я ругаюсь",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8472578.jpg",
+      "year": 2025,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1239"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/4378b9c6-9df7-4cc7-b02f-12a80a18939c"
+        ]
+      },
+      "genres": [
+        "драма",
+        "биография"
+      ]
+    },
+    {
+      "id": "kp-64187",
+      "kinopoiskId": 64187,
+      "title": "Пила: Игра на выживание",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/64187.jpg",
+      "year": 2004,
+      "collection": "Пила",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1243"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/6426bc47-4c95-4796-87c4-8e39687ac4ed"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-86206",
+      "kinopoiskId": 86206,
+      "title": "Пила 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/86206.jpg",
+      "year": 2005,
+      "collection": "Пила",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1247"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/712f4ab6-e943-4945-a345-92f0282ebbc9"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-184417",
+      "kinopoiskId": 184417,
+      "title": "Пила 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/184417.jpg",
+      "year": 2006,
+      "collection": "Пила",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1252"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/abea2ce8-205a-46ad-9be1-b7cc7097fe1b"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-271728",
+      "kinopoiskId": 271728,
+      "title": "Пила 4",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/271728.jpg",
+      "year": 2007,
+      "collection": "Пила",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1281"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/711ed539-ef6c-4454-9c15-c5b6de1a0c23"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-4374",
+      "kinopoiskId": 4374,
+      "title": "Пираты Карибского моря: Проклятие Черной жемчужины",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4374.jpg",
+      "year": 2003,
+      "collection": "Пираты Карибского моря",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1259"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/889e9535-ec86-44c5-b9c3-b7f9f2be4c13"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "боевик",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": "kp-18169",
+      "kinopoiskId": 18169,
+      "title": "Пятница 13-е – Часть 6: Джейсон жив!",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/18169.jpg",
+      "year": 1986,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1263"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/2b756116-a0cd-43e3-a08d-82afce68518f"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-63991",
+      "kinopoiskId": 63991,
+      "title": "Пираты Карибского моря: Сундук мертвеца",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/63991.jpg",
+      "year": 2006,
+      "collection": "Пираты Карибского моря",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1272"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/107b8e79-c86a-4842-af26-316f989ed52f"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "боевик",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": "kp-102124",
+      "kinopoiskId": 102124,
+      "title": "Пираты Карибского моря: На краю света",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102124.jpg",
+      "year": 2007,
+      "collection": "Пираты Карибского моря",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1275"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/e785f68a-67f0-4b7d-bdf9-3cb73aec2822"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "боевик",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": "kp-386",
+      "kinopoiskId": 386,
+      "title": "Чужой",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/386.jpg",
+      "year": 1979,
+      "collection": "Чужой",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1289"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/a45bc6ab-6e75-4276-8fce-f1f93904fb9c"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-427076",
+      "kinopoiskId": 427076,
+      "title": "Пираты Карибского моря: На странных берегах",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/427076.jpg",
+      "year": 2011,
+      "collection": "Пираты Карибского моря",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1293"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/85bfd18e-eb31-4cf4-b0b3-7fe6229ea764"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "боевик",
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-575180",
+      "kinopoiskId": 575180,
+      "title": "Пираты Карибского моря: Мертвецы не рассказывают сказки",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/575180.jpg",
+      "year": 2017,
+      "collection": "Пираты Карибского моря",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1298"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/40bbc7b3-2317-48f8-8338-d27c2f2406b8"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "боевик",
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-18168",
+      "kinopoiskId": 18168,
+      "title": "Пятница 13-е – Часть 7: Новая кровь",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/18168.jpg",
+      "year": 1988,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1300"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/fcbc442e-a56e-4b1e-9cf3-ce7b66716020"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-39881",
+      "kinopoiskId": 39881,
+      "title": "Гарольд и Кумар уходят в отрыв",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/39881.jpg",
+      "year": 2004,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1311"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/97e589ff-4dcd-4ba3-b3d5-610e4f111853"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-3671",
+      "kinopoiskId": 3671,
+      "title": "Пятница 13-е – Часть 8: Джейсон штурмует Манхэттен",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3671.jpg",
+      "year": 1989,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1314?single"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/fa7da104-3452-48f8-8c8a-02341bbef34e"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "приключения",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-406",
+      "kinopoiskId": 406,
+      "title": "Чужие",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/406.jpg",
+      "year": 1986,
+      "collection": "Чужой",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1323"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/4caf64dc-3e70-4383-9961-b7a4517bb4dc"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-2286",
+      "kinopoiskId": 2286,
+      "title": "Чужой 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2286.jpg",
+      "year": 1992,
+      "collection": "Чужой",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1328"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/dff63178-171d-4e96-80af-abdab0d5faaa"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-6303",
+      "kinopoiskId": 6303,
+      "title": "Хищник",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6303.jpg",
+      "year": 1987,
+      "collection": "Хищник",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1333"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/51286bfa-5049-4f09-936d-b9239350acc7"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-2230",
+      "kinopoiskId": 2230,
+      "title": "Хищник 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2230.jpg",
+      "year": 1990,
+      "collection": "Хищник",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1342"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/0f83b950-d08a-4a85-9a56-554a7485a7d0"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-8366",
+      "kinopoiskId": 8366,
+      "title": "Нечто",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8366.jpg",
+      "year": 1982,
+      "collection": "Нечто",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1337"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/be79df13-f6d2-497a-b999-a215f6721463"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-399977",
+      "kinopoiskId": 399977,
+      "title": "Нечто",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/399977.jpg",
+      "year": 2011,
+      "collection": "Нечто",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1346"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/94003998-6fec-48a1-ad2e-1c27c657c9fa"
+        ]
+      },
+      "genres": [
+        "детектив",
+        "фантастика",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-5198",
+      "kinopoiskId": 5198,
+      "title": "Кошмар на улице Вязов",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5198.jpg",
+      "year": 1984,
+      "collection": "Кошмар на улице Вязов",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1350"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/149abd36-5770-437d-9355-f97512eea721"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-4905",
+      "kinopoiskId": 4905,
+      "title": "Джейсон Х",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4905.jpg",
+      "year": 2000,
+      "collection": "Пятница 13-е",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1355"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/fcfc9a20-ba64-4a19-a942-788509f4f8d8"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-3935",
+      "kinopoiskId": 3935,
+      "title": "Чужой 4: Воскрешение",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3935.jpg",
+      "year": 1997,
+      "collection": "Чужой",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1359"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/f367d835-15ab-47ca-8779-885d4bb18ca6"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-31831",
+      "kinopoiskId": 31831,
+      "title": "Кошмар на улице Вязов 2: Месть Фредди",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/31831.jpg",
+      "year": 1985,
+      "collection": "Кошмар на улице Вязов",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1365"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/99c6fe7e-763c-4768-a9f1-bd735503a20d"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-4445150",
+      "kinopoiskId": 4445150,
+      "title": "Аркейн",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4445150.jpg",
+      "year": 2021,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/985",
+          "https://t.me/korya_narezki/990",
+          "https://t.me/korya_narezki/998",
+          "https://t.me/korya_narezki/1000",
+          "https://t.me/korya_narezki/1002"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/b26da756-9835-4e0e-912b-456f8a2cc4ea",
+          "https://boosty.to/korya_films/posts/b80a0a5a-e2c6-406d-8eac-3e39e6f45a4c",
+          "https://boosty.to/korya_films/posts/2cc0ddb6-466f-4d90-bcfb-c08b75ab24df",
+          "https://boosty.to/korya_films/posts/86e136f0-5958-4348-a206-e1160ea4cc7b",
+          "https://boosty.to/korya_films/posts/fbf00b72-7f90-471c-beab-041c7aca8516"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "боевик",
+        "фэнтези",
+        "мультфильм"
+      ]
+    },
+    {
+      "id": "kp-647602",
+      "kinopoiskId": 647602,
+      "title": "Охотник х Охотник",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/647602.jpg",
+      "year": 2011,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1080",
+          "https://t.me/korya_narezki/1085",
+          "https://t.me/korya_narezki/1089",
+          "https://t.me/korya_narezki/1093",
+          "https://t.me/korya_narezki/1101",
+          "https://t.me/korya_narezki/1105",
+          "https://t.me/korya_narezki/1109",
+          "https://t.me/korya_narezki/1120",
+          "https://t.me/korya_narezki/1124",
+          "https://t.me/korya_narezki/1138",
+          "https://t.me/korya_narezki/1141",
+          "https://t.me/korya_narezki/1182",
+          "https://t.me/korya_narezki/1196",
+          "https://t.me/korya_narezki/1199",
+          "https://t.me/korya_narezki/1216",
+          "https://t.me/korya_narezki/1222",
+          "https://t.me/korya_narezki/1235",
+          "https://t.me/korya_narezki/1267",
+          "https://t.me/korya_narezki/1318"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/241197c0-7938-45f6-aa8a-e685f2323035",
+          "https://boosty.to/korya_films/posts/22f0622d-52c3-4502-b1c0-e41d94d872ec",
+          "https://boosty.to/korya_films/posts/0dcaf0b4-9f0c-40cf-b269-8a4d9da71820",
+          "https://boosty.to/korya_films/posts/46372acf-80ce-474f-8f29-5d5736b6231d",
+          "https://boosty.to/korya_films/posts/502e3257-0691-4c50-9870-3bd1c9f61c8b",
+          "https://boosty.to/korya_films/posts/502e3257-0691-4c50-9870-3bd1c9f61c8b",
+          "https://boosty.to/korya_films/posts/10d86fa8-1197-4908-bb1c-26b29f1e549f",
+          "https://boosty.to/korya_films/posts/86ebbcd0-1d0a-4dde-99d4-40d1a4782686",
+          "https://boosty.to/korya_films/posts/24e94eaf-b0e0-4352-b3f0-a481e8f90eb3",
+          "https://boosty.to/korya_films/posts/58b7dd84-f78d-420f-b79c-375cb93490be",
+          "https://boosty.to/korya_films/posts/12387380-8017-4349-8db8-bdaa5a23903c",
+          "https://boosty.to/korya_films/posts/f3d018d9-e32e-4b46-9da4-e54b3a6ebc94",
+          "https://boosty.to/korya_films/posts/9641319f-2432-4079-ae7b-254d2e6ce3b0",
+          "https://boosty.to/korya_films/posts/5e84be18-a746-4d01-9b33-ed72d25fab4b",
+          "https://boosty.to/korya_films/posts/29922522-be97-4887-9c5d-c5d661daa7f0",
+          "https://boosty.to/korya_films/posts/0bd2d376-cfb0-4f4b-8425-99fe4e78e832",
+          "https://boosty.to/korya_films/posts/23c079b9-6fbe-47f6-9dd9-11cc0fbdce7d",
+          "https://boosty.to/korya_films/posts/60e98051-2f5b-4b80-a259-be62d8e01970",
+          "https://boosty.to/korya_films/posts/0673bcd0-8b7e-453b-95b8-a11f167c2b95"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "комедия",
+        "мультфильм",
+        "аниме"
+      ]
+    },
+    {
+      "id": "kp-645118",
+      "kinopoiskId": 645118,
+      "title": "Головоломка",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/645118.jpg",
+      "year": 2015,
+      "collection": "Головоломка",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/192"
+        ]
+      },
+      "genres": [
+        "фэнтези",
+        "комедия",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-5102255",
+      "kinopoiskId": 5102255,
+      "title": "Головоломка 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5102255.jpg",
+      "year": 2024,
+      "collection": "Головоломка",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/190"
+        ]
+      },
+      "genres": [
+        "фэнтези",
+        "комедия",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-89514",
+      "kinopoiskId": 89514,
+      "title": "Рататуй",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/89514.jpg",
+      "year": 2007,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/194"
+        ]
+      },
+      "genres": [
+        "драма",
+        "приключения",
+        "фэнтези",
+        "комедия",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-5457899",
+      "kinopoiskId": 5457899,
+      "title": "Дикий робот",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5457899.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/323"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-38903",
+      "kinopoiskId": 38903,
+      "title": "Суперсемейка",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/38903.jpg",
+      "year": 2004,
+      "collection": "Суперсемейка",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/348"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-839650",
+      "kinopoiskId": 839650,
+      "title": "Суперсемейка 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/839650.jpg",
+      "year": 2018,
+      "collection": "Суперсемейка",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/352"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик",
+        "комедия",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-775273",
+      "kinopoiskId": 775273,
+      "title": "Душа",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/775273.jpg",
+      "year": 2020,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/360"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "комедия",
+        "музыка",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-1057873",
+      "kinopoiskId": 1057873,
+      "title": "Неисправимый Рон",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1057873.jpg",
+      "year": 2021,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/383"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "комедия",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-77465",
+      "kinopoiskId": 77465,
+      "title": "Сезон охоты",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77465.jpg",
+      "year": 2006,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/436"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "комедия",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-88173",
+      "kinopoiskId": 88173,
+      "title": "Алита: Боевой ангел",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/88173.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/3"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-507440",
+      "kinopoiskId": 507440,
+      "title": "Проект X: Дорвались",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/507440.jpg",
+      "year": 2012,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/5"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-258687",
+      "kinopoiskId": 258687,
+      "title": "Интерстеллар",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258687.jpg",
+      "year": 2014,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/7"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "приключения"
+      ]
+    },
+    {
+      "id": "kp-835086",
+      "kinopoiskId": 835086,
+      "title": "Ford против Ferrari",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/835086.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/12"
+        ]
+      },
+      "genres": [
+        "драма",
+        "биография",
+        "боевик",
+        "спорт"
+      ]
+    },
+    {
+      "id": "kp-276598",
+      "kinopoiskId": 276598,
+      "title": "Драйв",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/276598.jpg",
+      "year": 2011,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/15"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-397667",
+      "kinopoiskId": 397667,
+      "title": "Остров проклятых",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/397667.jpg",
+      "year": 2009,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/17"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": "kp-61293",
+      "kinopoiskId": 61293,
+      "title": "Останься",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/61293.jpg",
+      "year": 2005,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/20"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": "kp-526",
+      "kinopoiskId": 526,
+      "title": "Большой куш",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/526.jpg",
+      "year": 2000,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/22"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1396300",
+      "kinopoiskId": 1396300,
+      "title": "Тетрис",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1396300.jpg",
+      "year": 2022,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/24"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "биография"
+      ]
+    },
+    {
+      "id": "kp-586397",
+      "kinopoiskId": 586397,
+      "title": "Джанго освобожденный",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/586397.jpg",
+      "year": 2012,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/26"
+        ]
+      },
+      "genres": [
+        "драма",
+        "вестерн",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-588",
+      "kinopoiskId": 588,
+      "title": "Американский психопат",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/588.jpg",
+      "year": 2000,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/29"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-602749",
+      "kinopoiskId": 602749,
+      "title": "Парни со стволами",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/602749.jpg",
+      "year": 2016,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/32"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал",
+        "биография",
+        "комедия",
+        "военный"
+      ]
+    },
+    {
+      "id": "kp-737859",
+      "kinopoiskId": 737859,
+      "title": "Ночные игры",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/737859.jpg",
+      "year": 2018,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/35"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "приключения",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-426004",
+      "kinopoiskId": 426004,
+      "title": "Мальчишник в Вегасе",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/426004.jpg",
+      "year": 2009,
+      "collection": "Мальчишник",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/38"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-455338",
+      "kinopoiskId": 455338,
+      "title": "Мальчишник 2: Из Вегаса в Бангкок",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/455338.jpg",
+      "year": 2011,
+      "collection": "Мальчишник",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/40"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-600847",
+      "kinopoiskId": 600847,
+      "title": "Мальчишник: Часть III",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/600847.jpg",
+      "year": 2013,
+      "collection": "Мальчишник",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/42"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-5000997",
+      "kinopoiskId": 5000997,
+      "title": "Air: Большой прыжок",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5000997.jpg",
+      "year": 2023,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/44"
+        ]
+      },
+      "genres": [
+        "драма",
+        "биография"
+      ]
+    },
+    {
+      "id": "kp-606646",
+      "kinopoiskId": 606646,
+      "title": "12 лет рабства",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/606646.jpg",
+      "year": 2013,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/46"
+        ]
+      },
+      "genres": [
+        "драма",
+        "биография",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-655618",
+      "kinopoiskId": 655618,
+      "title": "Домашнее видео",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/655618.jpg",
+      "year": 2014,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/48"
+        ]
+      },
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-395787",
+      "kinopoiskId": 395787,
+      "title": "Семь жизней",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/395787.jpg",
+      "year": 2008,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/50"
+        ]
+      },
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": "kp-535341",
+      "kinopoiskId": 535341,
+      "title": "1+1",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/535341.jpg",
+      "year": 2011,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/52"
+        ]
+      },
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-965754",
+      "kinopoiskId": 965754,
+      "title": "Дело храбрых",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/965754.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/54"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "биография",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-4458585",
+      "kinopoiskId": 4458585,
+      "title": "Экзорцист Ватикана",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4458585.jpg",
+      "year": 2023,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/56"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-1807",
+      "kinopoiskId": 1807,
+      "title": "Крик",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1807.jpg",
+      "year": 1996,
+      "collection": "Крик",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/58"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-3784",
+      "kinopoiskId": 3784,
+      "title": "Крик 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3784.jpg",
+      "year": 1997,
+      "collection": "Крик",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/60"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-2259",
+      "kinopoiskId": 2259,
+      "title": "Крик 3",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2259.jpg",
+      "year": 2000,
+      "collection": "Крик",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/62"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-420072",
+      "kinopoiskId": 420072,
+      "title": "Крик 4",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/420072.jpg",
+      "year": 2011,
+      "collection": "Крик",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/64"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-1328422",
+      "kinopoiskId": 1328422,
+      "title": "Крик",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1328422.jpg",
+      "year": 2022,
+      "collection": "Крик",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/66"
+        ]
+      },
+      "genres": [
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-4864943",
+      "kinopoiskId": 4864943,
+      "title": "Крик 6",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4864943.jpg",
+      "year": 2023,
+      "collection": "Крик",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/68"
+        ]
+      },
+      "genres": [
+        "детектив",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-2717",
+      "kinopoiskId": 2717,
+      "title": "Убить Билла",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2717.jpg",
+      "year": 2003,
+      "collection": "Убить Билла",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/70"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-47015",
+      "kinopoiskId": 47015,
+      "title": "Убить Билла 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/47015.jpg",
+      "year": 2004,
+      "collection": "Убить Билла",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/72"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-342",
+      "kinopoiskId": 342,
+      "title": "Криминальное чтиво",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/342.jpg",
+      "year": 1994,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/74"
+        ]
+      },
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-394",
+      "kinopoiskId": 394,
+      "title": "Бешеные псы",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/394.jpg",
+      "year": 1991,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/80"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-1047883",
+      "kinopoiskId": 1047883,
+      "title": "Однажды в… Голливуде",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1047883.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/82"
+        ]
+      },
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-910353",
+      "kinopoiskId": 910353,
+      "title": "Выстрел в пустоту",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/910353.jpg",
+      "year": 2015,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/85"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-195434",
+      "kinopoiskId": 195434,
+      "title": "Старикам тут не место",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/195434.jpg",
+      "year": 2007,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/90"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "вестерн"
+      ]
+    },
+    {
+      "id": "kp-4250",
+      "kinopoiskId": 4250,
+      "title": "Четыре комнаты",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4250.jpg",
+      "year": 1995,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/92"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-409295",
+      "kinopoiskId": 409295,
+      "title": "Исходный код",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/409295.jpg",
+      "year": 2011,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/94"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-649917",
+      "kinopoiskId": 649917,
+      "title": "По соображениям совести",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/649917.jpg",
+      "year": 2016,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/96"
+        ]
+      },
+      "genres": [
+        "драма",
+        "биография",
+        "военный",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-5932",
+      "kinopoiskId": 5932,
+      "title": "Очень страшное кино",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5932.jpg",
+      "year": 2000,
+      "collection": "Очень страшное кино",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/98"
+        ]
+      },
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-273064",
+      "kinopoiskId": 273064,
+      "title": "Доказательство смерти",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/273064.jpg",
+      "year": 2007,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/100"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-4628",
+      "kinopoiskId": 4628,
+      "title": "Джеки Браун",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4628.jpg",
+      "year": 1997,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/102"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": "kp-1008444",
+      "kinopoiskId": 1008444,
+      "title": "Дэдпул и Росомаха",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1008444.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/105"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1143242",
+      "kinopoiskId": 1143242,
+      "title": "Джентльмены",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1143242.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/107"
+        ]
+      },
+      "genres": [
+        "криминал",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-4414587",
+      "kinopoiskId": 4414587,
+      "title": "Министерство неджентльменских дел",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4414587.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/109"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "комедия",
+        "военный",
+        "история"
+      ]
+    },
+    {
+      "id": "kp-450345",
+      "kinopoiskId": 450345,
+      "title": "Одноклассники",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/450345.jpg",
+      "year": 2010,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/111"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1043758",
+      "kinopoiskId": 1043758,
+      "title": "Паразиты",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1043758.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/113"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1257264",
+      "kinopoiskId": 1257264,
+      "title": "Меню",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1257264.jpg",
+      "year": 2022,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/115"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-929348",
+      "kinopoiskId": 929348,
+      "title": "Одаренная",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/929348.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/117"
+        ]
+      },
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": "kp-957887",
+      "kinopoiskId": 957887,
+      "title": "Клаус",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/957887.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/121"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "комедия",
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
+      "id": "kp-258621",
+      "kinopoiskId": 258621,
+      "title": "Блич",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258621.jpg",
+      "year": 2004,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/119",
+          "https://t.me/koryastream/123",
+          "https://t.me/koryastream/125",
+          "https://t.me/koryastream/128",
+          "https://t.me/koryastream/132",
+          "https://t.me/koryastream/138",
+          "https://t.me/koryastream/145",
+          "https://t.me/koryastream/152",
+          "https://t.me/koryastream/160",
+          "https://t.me/koryastream/162",
+          "https://t.me/koryastream/180",
+          "https://t.me/koryastream/185",
+          "https://t.me/koryastream/187",
+          "https://t.me/koryastream/191",
+          "https://t.me/koryastream/196",
+          "https://t.me/koryastream/201",
+          "https://t.me/koryastream/204"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "приключения",
+        "боевик",
+        "фэнтези",
+        "мультфильм",
+        "аниме"
+      ]
+    },
+    {
+      "id": "kp-843221",
+      "kinopoiskId": 843221,
+      "title": "Паразит: Учение о жизни",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/843221.jpg",
+      "year": 2014,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/173"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "ужасы",
+        "мультфильм",
+        "аниме"
+      ]
+    },
+    {
+      "id": "kp-1162847",
+      "kinopoiskId": 1162847,
+      "title": "(НЕ)идеальный мужчина",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1162847.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/175"
+        ]
+      },
+      "genres": [
+        "мелодрама",
+        "фантастика",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1249181",
+      "kinopoiskId": 1249181,
+      "title": "Барбоскины на даче",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1249181.jpg",
+      "year": 2020,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/177"
+        ]
+      },
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "детский"
+      ]
+    },
+    {
+      "id": "kp-3746",
+      "kinopoiskId": 3746,
+      "title": "Кошмар на улице Вязов 3: Воины сна",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3746.jpg",
+      "year": 1987,
+      "collection": "Кошмар на улице Вязов",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1368"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/2acb172a-a07e-4e9e-989b-2ff796cf57e4"
+        ]
+      },
+      "genres": [
+        "фэнтези",
+        "ужасы"
+      ]
+    }
+  ]
+}

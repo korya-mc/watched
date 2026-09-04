@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Коря_МС • Просмотренное </title>
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="favicon-64.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-row">
+    <img src="logo.png" alt="Коря_МС просмотренное" class="logo">
+    <div class="header-right">
+      <div class="search-wrap">
+        <input type="text" id="searchInput" placeholder="Введите название..." autocomplete="off">
+        <button class="search-clear" id="searchClear" type="button">✕</button>
+      </div>
+      <div class="header-stats" id="stats"></div>
+      <div class="header-updated" id="updatedDate"></div> 
+    </div>
+  </div>
+</header>
+<main class="container">
+  <section class="section">
+    <div class="info-box">
+      Сайт носит исключительно информационный характер </br>
+      Если ссылки на Telegram и Boosty совпадают по нумерации, скорее всего, они идентичны, но лучше проверяйте все ссылки — некоторые фильмы со временем пересматривались </br>
+      Для отображения постеров требуется соединение с CDN Яндекса. Поиск фильмов только по их официальному русскому названию на КиноПоиск
+    </div>
+    <div class="alphabet-nav" id="alphabetNav"></div>
+    <div class="filters-row">
+      <div class="filter-group">
+        <label>Источник:</label>
+        <div class="custom-select" id="sourceSelect" data-filter="source">
+          <button class="select-toggle" type="button">
+            <span class="select-value">Все</span>
+            <span class="select-arrow">▾</span>
+          </button>
+          <div class="select-options">
+            <div class="select-option active" data-value="all">Все</div>
+            <div class="select-option" data-value="telegram">Telegram</div>
+            <div class="select-option" data-value="boosty">Boosty</div>
+          </div>
+        </div>
+      </div>
+      <div class="filter-group">
+        <label>Жанр:</label>
+        <div class="custom-select" id="genreSelect" data-filter="genre">
+          <button class="select-toggle" type="button">
+            <span class="select-value">Все жанры</span>
+            <span class="select-arrow">▾</span>
+          </button>
+          <div class="select-options" id="genreOptions">
+            <div class="select-option active" data-value="all">Все жанры</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="moviesGrid"></div>
+    <button class="scroll-top-inline" id="scrollTopBtn" type="button">К началу</button>
+  </section>
+</main>
+<div class="modal" id="collectionModal">
+  <div class="modal-content">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <h2 id="modalTitle"></h2>
+    <div class="grid" id="modalGrid"></div>
+  </div>
+</div>
+ <script src="js/main.js"></script>
+</body>
+<footer class="site-footer">
+  Спасибо Паше и Никите за коллекцию. Спасибо Денису за бибизьяну. Спасибо Карине за стримы.
+</footer>
+</html>
+<!-- Мы на самом дне, ниже падать некуда, посмотри, тут пустота под подвалом -->
