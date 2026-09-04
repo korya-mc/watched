@@ -60,20 +60,26 @@ body {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  margin-left: auto;
-  width: 400px;
-  max-width: 100%;
-}
+  margin-left: auto; 
+  width: auto;
+  align-items: flex-end;
+}     
 .header-stats {
   color: var(--text-muted);
   font-size: 14px;
   text-align: right;
 }
+.header-updated {          
+  color: var(--text-muted);
+  font-size: 12px;
+  text-align: right;
+  opacity: 0.7;
+}
 
 /* ПОИСК */
 .search-wrap {
   position: relative;
-  width: 100%;
+  width: 250px;
 }
 .search-wrap input {
   width: 100%;
@@ -125,6 +131,10 @@ body {
   .header-right {
     width: 100%;
     margin-left: 0;
+    align-items: stretch;  
+  }
+  .search-wrap {
+    width: 100%;            
   }
   .header-stats {
     text-align: center;
@@ -145,12 +155,6 @@ body {
   line-height: 1.5;
   background: transparent;
   text-align: center;
-}
-.header-updated {
-  color: var(--text-muted);
-  font-size: 12px;
-  text-align: right;
-  opacity: 0.7;
 }
 
 /* КОНТЕЙНЕР И СЕКЦИИ */
