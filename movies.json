@@ -4147,6 +4147,46 @@
         "фэнтези",
         "ужасы"
       ]
+    },
+    {
+      "id": "kp-39956",
+      "kinopoiskId": 39956,
+      "title": "Улётный транспорт",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/39956.jpg",
+      "year": 2004,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1373"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/0d309f91-cfae-414b-b0fe-704675cf4b0d"
+        ]
+      },
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-47237",
+      "kinopoiskId": 47237,
+      "title": "Бэтмен: Начало",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/47237.jpg",
+      "year": 2005,
+      "collection": "Бэтмен(Темный рыцарь)",
+      "links": {
+        "boosty": [
+          "https://boosty.to/korya_mc/posts/47f15ef2-ec79-4c69-9380-f455d1baeddc"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
     }
   ]
 }
