@@ -4187,6 +4187,49 @@
         "приключения",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-273302",
+      "kinopoiskId": 273302,
+      "title": "Мгла",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/273302.jpg",
+      "year": 2007,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1378"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/7ab998f3-7e2d-44ea-b151-f3aba448f66e"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-111543",
+      "kinopoiskId": 111543,
+      "title": "Темный рыцарь",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/111543.jpg",
+      "year": 2008,
+      "collection": "Бэтмен(Темный рыцарь)",
+      "links": {
+        "boosty": [
+          "https://boosty.to/korya_mc/posts/aef0dbd2-059f-4466-85f7-bdd45e103b7a"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "фантастика",
+        "боевик"
+      ]
     }
   ]
 }
