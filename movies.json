@@ -4230,6 +4230,70 @@
         "фантастика",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-4999094",
+      "kinopoiskId": 4999094,
+      "title": "Заклинание",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4999094.jpg",
+      "year": 2022,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1382"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/670af2db-d6fe-4645-aed0-d26d053a983f"
+        ]
+      },
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-102151",
+      "kinopoiskId": 102151,
+      "title": "Хэнкок",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102151.jpg",
+      "year": 2008,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1387"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/e978ebaa-fa2e-4dc4-a9de-ca51e9fadc58"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-437410",
+      "kinopoiskId": 437410,
+      "title": "Темный рыцарь: Возрождение легенды",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/437410.jpg",
+      "year": 2012,
+      "collection": "Бэтмен(Темный рыцарь)",
+      "links": {
+        "boosty": [
+          "https://boosty.to/korya_mc/posts/dea184f7-0747-471b-b3a0-cbb3c6dcbed4"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал",
+        "фантастика",
+        "боевик"
+      ]
     }
   ]
 }
