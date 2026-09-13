@@ -4294,6 +4294,28 @@
         "фантастика",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-5492",
+      "kinopoiskId": 5492,
+      "title": "Вечное сияние чистого разума",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5492.jpg",
+      "year": 2004,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1393"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/1813a16e-87c0-41b8-b2bc-0804cf329c31"
+        ]
+      },
+      "genres": [
+        "драма",
+        "мелодрама",
+        "фантастика"
+      ]
     }
   ]
 }
