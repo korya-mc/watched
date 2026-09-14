@@ -4316,6 +4316,30 @@
         "мелодрама",
         "фантастика"
       ]
+    },
+    {
+      "id": "kp-841700",
+      "kinopoiskId": 841700,
+      "title": "Марсианин",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/841700.jpg",
+      "year": 2015,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1398"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/0c0600ed-d7e5-4790-afa1-64895d754687"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "фантастика",
+        "приключения",
+        "комедия"
+      ]
     }
   ]
 }
