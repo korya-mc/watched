@@ -4340,6 +4340,68 @@
         "приключения",
         "комедия"
       ]
+    },
+    {
+      "id": "kp-886",
+      "kinopoiskId": 886,
+      "title": "Люди Икс",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/886.jpg",
+      "year": 2000,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1402"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/450f8e8e-564f-4bcb-9e02-4a0c2473a2ac"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-298",
+      "kinopoiskId": 298,
+      "title": "Люди Икс 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/298.jpg",
+      "year": 2003,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1407"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/13d34703-e727-4d3b-b872-39eb1908d854"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-1227803",
+      "kinopoiskId": 1227803,
+      "title": "Чернобыль",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1227803.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "boosty": [
+          "https://boosty.to/korya_mc/posts/7d731f46-7d0b-43ea-9d22-d7087f9abf15"
+        ]
+      },
+      "genres": [
+        "драма",
+        "история"
+      ]
     }
   ]
 }
