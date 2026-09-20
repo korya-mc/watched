@@ -4386,6 +4386,28 @@
       ]
     },
     {
+      "id": "kp-61361",
+      "kinopoiskId": 61361,
+      "title": "Люди Икс: Последняя битва",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/61361.jpg",
+      "year": 2006,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1411"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/3bcd69c9-219d-4a4a-a4d9-afcd473320c0"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
+    },
+    {
       "id": "kp-1227803",
       "kinopoiskId": 1227803,
       "title": "Чернобыль",
@@ -4395,7 +4417,8 @@
       "collection": null,
       "links": {
         "boosty": [
-          "https://boosty.to/korya_mc/posts/7d731f46-7d0b-43ea-9d22-d7087f9abf15"
+          "https://boosty.to/korya_mc/posts/7d731f46-7d0b-43ea-9d22-d7087f9abf15",
+          "https://boosty.to/korya_mc/posts/790f3459-ed42-48ca-8f7d-d387960ed40a"
         ]
       },
       "genres": [
