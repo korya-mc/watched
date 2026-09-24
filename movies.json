@@ -4425,6 +4425,48 @@
         "драма",
         "история"
       ]
+    },
+    {
+      "id": "kp-104904",
+      "kinopoiskId": 104904,
+      "title": "Люди Икс: Начало. Росомаха",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/104904.jpg",
+      "year": 2009,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1415"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/35604794-c344-41df-9078-bf89b50aab0a"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-462358",
+      "kinopoiskId": 462358,
+      "title": "Люди Икс: Первый класс",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/462358.jpg",
+      "year": 2011,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1418"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/11a9a1f8-db22-42b3-b0ff-1421133be6f1"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик"
+      ]
     }
   ]
 }
