@@ -4467,6 +4467,50 @@
         "фантастика",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-462754",
+      "kinopoiskId": 462754,
+      "title": "Росомаха: Бессмертный",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/462754.jpg",
+      "year": 2013,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1422"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/e5ecb558-7047-400f-8cbc-3a99d36bb646"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-597687",
+      "kinopoiskId": 597687,
+      "title": "Люди Икс: Дни минувшего будущего",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/597687.jpg",
+      "year": 2014,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1425"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/8ec65473-2b48-434d-95e4-31c9db0857e9"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
     }
   ]
 }
