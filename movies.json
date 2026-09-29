@@ -3881,26 +3881,6 @@
       ]
     },
     {
-      "id": "kp-1008444",
-      "kinopoiskId": 1008444,
-      "title": "Дэдпул и Росомаха",
-      "titleOriginal": "",
-      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1008444.jpg",
-      "year": 2024,
-      "collection": null,
-      "links": {
-        "telegram": [
-          "https://t.me/koryastream/105"
-        ]
-      },
-      "genres": [
-        "фантастика",
-        "приключения",
-        "боевик",
-        "комедия"
-      ]
-    },
-    {
       "id": "kp-1143242",
       "kinopoiskId": 1143242,
       "title": "Джентльмены",
@@ -4551,6 +4531,26 @@
         ]
       },
       "genres": [
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": "kp-1008444",
+      "kinopoiskId": 1008444,
+      "title": "Дэдпул и Росомаха",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1008444.jpg",
+      "year": 2024,
+      "collection": "Дэдпул",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/105"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
         "боевик",
         "комедия"
       ]
