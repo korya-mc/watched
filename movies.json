@@ -4511,6 +4511,49 @@
         "приключения",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-814016",
+      "kinopoiskId": 814016,
+      "title": "Люди Икс: Апокалипсис",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/814016.jpg",
+      "year": 2016,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1428"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/6a228cde-3403-48c3-8ab5-1b56f9f39628"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-462360",
+      "kinopoiskId": 462360,
+      "title": "Дэдпул",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/462360.jpg",
+      "year": 2016,
+      "collection": "Дэдпул",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1431"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/14af3304-0084-4482-8b80-a15129227815"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "комедия"
+      ]
     }
   ]
 }
