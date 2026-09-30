@@ -4554,6 +4554,29 @@
         "боевик",
         "комедия"
       ]
+    },
+    {
+      "id": "kp-807682",
+      "kinopoiskId": 807682,
+      "title": "Логан",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/807682.jpg",
+      "year": 2017,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1433"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/43ddeff8-6179-4938-ad7d-3764181d1dc2"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "фантастика",
+        "боевик"
+      ]
     }
   ]
 }
