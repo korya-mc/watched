@@ -4577,6 +4577,29 @@
         "фантастика",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-961715",
+      "kinopoiskId": 961715,
+      "title": "Дэдпул 2",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/961715.jpg",
+      "year": 2018,
+      "collection": "Дэдпул",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1439"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/2e65c1f2-d083-4156-b2fd-8e02853e9718"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик",
+        "комедия"
+      ]
     }
   ]
 }
