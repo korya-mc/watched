@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://korya-mc.github.io/watched/sitemap.xml

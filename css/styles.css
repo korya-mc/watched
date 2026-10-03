@@ -777,3 +777,46 @@ body {
   }
 }
 
+/* SEO-БЛОК */
+.seo-quiet-block {
+    font-size: 11px;
+    line-height: 1.5;
+    color: var(--text-muted);
+    opacity: 0.25;
+    text-align: left;          
+    margin: 12px 24px;         
+    max-width: 1400px;         
+    margin-left: auto;         
+    margin-right: auto;
+    padding: 0;
+    word-break: break-word;
+    user-select: none;
+}
+.seo-quiet-block:hover {
+    opacity: 0.85;
+    transition: opacity 0.2s ease;
+    user-select: text;
+}
+.seo-quiet-block a {
+    color: var(--text-muted);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--border);
+    transition: color 0.15s, border-color 0.15s;
+}
+.seo-quiet-block a:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+}
+@media (max-width: 600px) {
+    .seo-quiet-block {
+        margin: 12px 16px;          
+        font-size: 11px;           
+        opacity: 0.2;               
+    }
+    .seo-quiet-block:active {
+        opacity: 0.85;
+        transition: opacity 0.15s ease;
+        user-select: text;
+    }
+}
+
