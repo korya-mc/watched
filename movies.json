@@ -4600,6 +4600,28 @@
         "боевик",
         "комедия"
       ]
+    },
+    {
+      "id": "kp-1012431",
+      "kinopoiskId": 1012431,
+      "title": "Люди Икс: Тёмный Феникс",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1012431.jpg",
+      "year": 2019,
+      "collection": "Люди Икс",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1443"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/f91576b3-eb89-4913-b865-11a536b3417b"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
     }
   ]
 }
