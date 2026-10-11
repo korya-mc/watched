@@ -4536,26 +4536,6 @@
       ]
     },
     {
-      "id": "kp-1008444",
-      "kinopoiskId": 1008444,
-      "title": "Дэдпул и Росомаха",
-      "titleOriginal": "",
-      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1008444.jpg",
-      "year": 2024,
-      "collection": "Дэдпул",
-      "links": {
-        "telegram": [
-          "https://t.me/koryastream/105"
-        ]
-      },
-      "genres": [
-        "фантастика",
-        "приключения",
-        "боевик",
-        "комедия"
-      ]
-    },
-    {
       "id": "kp-807682",
       "kinopoiskId": 807682,
       "title": "Логан",
@@ -4621,6 +4601,30 @@
         "фантастика",
         "приключения",
         "боевик"
+      ]
+    },
+    {
+      "id": "kp-1008444",
+      "kinopoiskId": 1008444,
+      "title": "Дэдпул и Росомаха",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1008444.jpg",
+      "year": 2024,
+      "collection": "Дэдпул",
+      "links": {
+        "telegram": [
+          "https://t.me/koryastream/105",
+          "https://t.me/korya_narezki/1446"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/359e5a60-9ce4-4d3f-8d2e-e2817cd21e30"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "приключения",
+        "боевик",
+        "комедия"
       ]
     }
   ]
