@@ -4626,6 +4626,29 @@
         "боевик",
         "комедия"
       ]
+    },
+    {
+      "id": "kp-3491",
+      "kinopoiskId": 3491,
+      "title": "Ван Хельсинг",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3491.jpg",
+      "year": 2004,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1450"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/e98be306-7cc6-43b1-8aff-25c11bcc18f2"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "приключения",
+        "боевик",
+        "фэнтези"
+      ]
     }
   ]
 }
