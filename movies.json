@@ -4649,6 +4649,50 @@
         "боевик",
         "фэнтези"
       ]
+    },
+    {
+      "id": "kp-8033",
+      "kinopoiskId": 8033,
+      "title": "Другой мир",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8033.jpg",
+      "year": 2003,
+      "collection": "Другой мир",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1455"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/8b057abd-4d3d-4a70-b53b-575b602d3be3"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "боевик",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": "kp-77441",
+      "kinopoiskId": 77441,
+      "title": "Другой мир 2: Эволюция",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77441.jpg",
+      "year": 2005,
+      "collection": "Другой мир",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1459"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/393c112c-ef98-426c-9697-c732305df483"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "боевик",
+        "фэнтези"
+      ]
     }
   ]
 }
