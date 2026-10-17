@@ -4693,6 +4693,50 @@
         "боевик",
         "фэнтези"
       ]
+    },
+    {
+      "id": "kp-258772",
+      "kinopoiskId": 258772,
+      "title": "Другой мир: Восстание ликанов",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258772.jpg",
+      "year": 2008,
+      "collection": "Другой мир",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1462"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/dc5f7e53-4b01-4625-bfb0-ca16e7db8732"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "боевик",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": "kp-472368",
+      "kinopoiskId": 472368,
+      "title": "Другой мир: Пробуждение",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/472368.jpg",
+      "year": 2012,
+      "collection": "Другой мир",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1467"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/5f02484f-c423-4e1e-b5e8-1369a265b793"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "боевик",
+        "фэнтези"
+      ]
     }
   ]
 }
