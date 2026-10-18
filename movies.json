@@ -4737,6 +4737,28 @@
         "боевик",
         "фэнтези"
       ]
+    },
+    {
+      "id": "kp-840824",
+      "kinopoiskId": 840824,
+      "title": "Другой мир: Войны крови",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/840824.jpg",
+      "year": 2016,
+      "collection": "Другой мир",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1470"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/15819b17-eab3-4f56-ba35-6ab19bb7cf61"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "боевик",
+        "фэнтези"
+      ]
     }
   ]
 }
