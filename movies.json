@@ -4759,6 +4759,28 @@
         "боевик",
         "фэнтези"
       ]
+    },
+    {
+      "id": "kp-88198",
+      "kinopoiskId": 88198,
+      "title": "Живая сталь",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/88198.jpg",
+      "year": 2011,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1473"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/8f6b80ef-730e-41b2-bb0e-5df3aafdbc82"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "семейный"
+      ]
     }
   ]
 }
