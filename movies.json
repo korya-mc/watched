@@ -4781,6 +4781,28 @@
         "боевик",
         "семейный"
       ]
+    },
+    {
+      "id": "kp-1574",
+      "kinopoiskId": 1574,
+      "title": "Мизери",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1574.jpg",
+      "year": 1990,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1477"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/6a3f3982-269d-49d0-9104-2ae9c707a81e"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "ужасы"
+      ]
     }
   ]
 }
