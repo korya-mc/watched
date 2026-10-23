@@ -4803,6 +4803,29 @@
         "драма",
         "ужасы"
       ]
+    },
+    {
+      "id": "kp-460523",
+      "kinopoiskId": 460523,
+      "title": "Хищники",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/460523.jpg",
+      "year": 2010,
+      "collection": "Хищник",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1480"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/c5a7bf3d-7510-47b3-b23c-6b2de54f7de1"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "фантастика",
+        "приключения",
+        "боевик"
+      ]
     }
   ]
 }
