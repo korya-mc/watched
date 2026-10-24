@@ -4826,6 +4826,31 @@
         "приключения",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-103370",
+      "kinopoiskId": 103370,
+      "title": "Князь Владимир",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/103370.jpg",
+      "year": 2006,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1486"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/8575dd2b-1982-4372-b34f-75562236b6aa"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма",
+        "боевик",
+        "фэнтези",
+        "история",
+        "мультфильм"
+      ]
     }
   ]
 }
