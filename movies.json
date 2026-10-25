@@ -4851,6 +4851,49 @@
         "история",
         "мультфильм"
       ]
+    },
+    {
+      "id": "kp-6059",
+      "kinopoiskId": 6059,
+      "title": "Дэнни Цепной пес",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6059.jpg",
+      "year": 2005,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1487"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/ef513fe7-fab3-44aa-99d0-ba2206c7ddc5"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-7316",
+      "kinopoiskId": 7316,
+      "title": "Джиперс Криперс",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7316.jpg",
+      "year": 2001,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1489"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/308d4baf-1d10-4379-b788-e299a23be8ae"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
     }
   ]
 }
