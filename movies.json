@@ -4894,6 +4894,50 @@
         "триллер",
         "ужасы"
       ]
+    },
+    {
+      "id": "kp-5406956",
+      "kinopoiskId": 5406956,
+      "title": "Жизнь Чака",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5406956.jpg",
+      "year": 2024,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1492"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/8f7fc05d-c8e3-4377-9c9b-f6e2054d623d"
+        ]
+      },
+      "genres": [
+        "драма",
+        "фантастика",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": "kp-311",
+      "kinopoiskId": 311,
+      "title": "Пуленепробиваемый",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/311.jpg",
+      "year": 2003,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1494"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/fb9a0ca3-2059-4f73-8444-b459aed4a1b4"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "фэнтези",
+        "комедия"
+      ]
     }
   ]
 }
