@@ -4938,6 +4938,51 @@
         "фэнтези",
         "комедия"
       ]
+    },
+    {
+      "id": "kp-1177510",
+      "kinopoiskId": 1177510,
+      "title": "Гангстер, коп и дьявол",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1177510.jpg",
+      "year": 2019,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1499"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/86c3b63d-1397-478b-86aa-2b77ad222daa"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "детектив",
+        "боевик"
+      ]
+    },
+    {
+      "id": "kp-497027",
+      "kinopoiskId": 497027,
+      "title": "Я видел дьявола",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/497027.jpg",
+      "year": 2010,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1503"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/012d2a24-d067-4363-bb83-e521656869d9"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "криминал",
+        "боевик"
+      ]
     }
   ]
 }
