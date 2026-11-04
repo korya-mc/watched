@@ -4983,6 +4983,27 @@
         "криминал",
         "боевик"
       ]
+    },
+    {
+      "id": "kp-430519",
+      "kinopoiskId": 430519,
+      "title": "Немыслимое",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/430519.jpg",
+      "year": 2009,
+      "collection": null,
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1511"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/01d5c5c2-7d55-4d56-aeec-a24e7f682f5f"
+        ]
+      },
+      "genres": [
+        "триллер",
+        "драма"
+      ]
     }
   ]
 }
