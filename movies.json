@@ -5024,6 +5024,28 @@
         "триллер",
         "ужасы"
       ]
+    },
+    {
+      "id": "kp-4324674",
+      "kinopoiskId": 4324674,
+      "title": "Добыча",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4324674.jpg",
+      "year": 2022,
+      "collection": "Хищник",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1519"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/aa75c313-0f04-4c18-885a-64d8d37a5356"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик",
+        "ужасы"
+      ]
     }
   ]
 }
