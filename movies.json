@@ -5046,6 +5046,46 @@
         "боевик",
         "ужасы"
       ]
+    },
+    {
+      "id": "kp-4554",
+      "kinopoiskId": 4554,
+      "title": "Блэйд",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4554.jpg",
+      "year": 1998,
+      "collection": null,
+      "links": {
+        "boosty": [
+          "https://boosty.to/korya_mc/posts/7d062251-c80f-40e4-aba0-e87fd85b44c0"
+        ]
+      },
+      "genres": [
+        "боевик",
+        "фэнтези",
+        "ужасы"
+      ]
+    },
+    {
+      "id": "kp-5463792",
+      "kinopoiskId": 5463792,
+      "title": "Хищник: Планета смерти",
+      "titleOriginal": "",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5463792.jpg",
+      "year": 2025,
+      "collection": "Хищник",
+      "links": {
+        "telegram": [
+          "https://t.me/korya_narezki/1523"
+        ],
+        "boosty": [
+          "https://boosty.to/korya_films/posts/2867664b-8ce7-448a-acdc-111bcdc915e8"
+        ]
+      },
+      "genres": [
+        "фантастика",
+        "боевик"
+      ]
     }
   ]
 }
